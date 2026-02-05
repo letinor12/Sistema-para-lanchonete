@@ -1,0 +1,1 @@
+Sistema de lanchonete desenvolvido em Java com interface em modo console, que permite realizar pedidos, escolher a forma de pagamento (Dinheiro, Cartão ou Pix), além de calcular o troco automaticamente para pagamentos em dinheiro. O projeto foi criado com o objetivo de praticar Programação Orientada a Objetos, Listas e regras de negócios.
